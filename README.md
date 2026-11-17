@@ -42,6 +42,6 @@ For forecasting, the selected weekday-average method gave an overall **WAPE of 5
 
 ## Files
 
-- `Extra_homework.ipynb` — analysis and results in Python.
+- `Extra_homework_503221` — analysis and results in Python.
 - `uber-data.csv.gz` — compressed dataset used by the notebook.
 - `images/` — selected screenshots of the notebook results.
